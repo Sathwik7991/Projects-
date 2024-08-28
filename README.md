@@ -1,2 +1,2 @@
 # Projects-
-Data analysis projects using Power BU
+Data analysis projects using Power BI
